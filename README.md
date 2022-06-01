@@ -2,7 +2,7 @@
 - 👀 I’m interested in open source
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me email-aryanlath@gmail.com
+- 📫 How to reach me aryanlath@gmail.com
 
 <!---
 aryanlath/aryanlath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
